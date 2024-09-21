@@ -8,7 +8,9 @@
 
 3. (optional) install gtk theme + neovim:
    <code>sudo pacman -S --needed nwg-look neovim papirus-icon-theme</code>
+   
    <code>git clone https://github.com/vinceliuice/Graphite-gtk-theme</code>
+   
    <code>cd Graphite-gtk-theme && ./install.sh</code>
 
 4. clone and compile wlogout (for the exit menu to work):
