@@ -16,6 +16,7 @@
    <code>cd Graphite-gtk-theme && ./install.sh</code>
 
 5. <b>clone and compile</b> wlogout (for the exit menu to work):
+   
    <code>git clone https://github.com/ArtsyMacaw/wlogout.git</code>
    
    <code>cd wlogout</code>
@@ -26,7 +27,7 @@
    
    <code>sudo ninja -C build install</code>
    
-6. <b>copy</b> config files:
+7. <b>copy</b> config files:
    
    <code>cp -r dotfiles/* ~/.config/</code>
 
