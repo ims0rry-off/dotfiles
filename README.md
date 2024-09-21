@@ -38,3 +38,9 @@
    <code>cp -r dotfiles/* ~/.config/</code>
 
 7. <b>enjoy!</b>
+
+<b>screenshot:</b>
+
+![swappy-20240922_003249 cleaned](https://github.com/user-attachments/assets/61c53616-6506-48d9-9bd8-0378198991cb)
+
+
