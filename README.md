@@ -26,6 +26,8 @@
    
    <code>sudo ninja -C build install</code>
    
-6. <b>copy</b> config files: <code>cp -r dotfiles/* ~/.config/</code>
+6. <b>copy</b> config files:
+   
+   <code>cp -r dotfiles/* ~/.config/</code>
 
-7. <b>enjoy!</b>
+8. <b>enjoy!</b>
