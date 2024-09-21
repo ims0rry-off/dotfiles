@@ -22,6 +22,7 @@
    <code>cd Graphite-gtk-theme && ./install.sh</code>
 
 5. <b>clone and compile</b> wlogout (for the exit menu to work):
+   
    <code>git clone https://github.com/ArtsyMacaw/wlogout.git</code>
    
    <code>cd wlogout</code>
